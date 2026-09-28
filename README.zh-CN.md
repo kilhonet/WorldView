@@ -216,7 +216,7 @@ HEIC · AVIF · JPEG XL,Canon · Nikon · Sony · Olympus · Pentax · Panasonic
 
 ## 更新
 
-WorldView **不会** 自动更新。启动时检查是否有新版本并弹出提示窗口,按 **[是]** 会打开下载页面并退出程序。新版本经内部验证后手动发布,并在 [WorldView 页面](https://v2.kilho.net/worldview)公告。请参阅[更新政策说明](https://en.kilho.net/archives/notice/2940)。
+WorldView **不会** 自动更新。启动时检查是否有新版本并弹出提示窗口,按 **[是]** 会打开下载页面并退出程序。新版本经内部验证后手动发布,并在 [WorldView 页面](https://kilho.net/worldview)公告。请参阅[更新政策说明](https://en.kilho.net/archives/notice/2940)。
 
 **版本历史**
 
@@ -233,7 +233,7 @@ WorldView 是 **免费软件**。公司、家庭、政府机关、学校等任�
 
 ## 链接
 
-- 官网: <https://v2.kilho.net/worldview>
+- 官网: <https://kilho.net/worldview>
 - 论坛: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 

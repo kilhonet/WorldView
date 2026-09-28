@@ -216,7 +216,7 @@ WorldView をもう 1 つ起動すると、新しいウィンドウが前のウ�
 
 ## アップデート
 
-WorldView は自動では更新 **しません**。起動時に新しいバージョンがあるか確認して案内ウィンドウを表示し、**[はい]** を押すとダウンロードページを開いてプログラムを閉じます。新しいバージョンは内部検証の後に手動で配布され、[WorldView のページ](https://v2.kilho.net/worldview)で告知されます。[アップデートポリシーのお知らせ](https://en.kilho.net/archives/notice/2940)を参照してください。
+WorldView は自動では更新 **しません**。起動時に新しいバージョンがあるか確認して案内ウィンドウを表示し、**[はい]** を押すとダウンロードページを開いてプログラムを閉じます。新しいバージョンは内部検証の後に手動で配布され、[WorldView のページ](https://kilho.net/worldview)で告知されます。[アップデートポリシーのお知らせ](https://en.kilho.net/archives/notice/2940)を参照してください。
 
 **バージョン履歴**
 
@@ -233,7 +233,7 @@ WorldView は **フリーウェア** です。会社、自宅、官公庁、学�
 
 ## リンク
 
-- ウェブサイト: <https://v2.kilho.net/worldview>
+- ウェブサイト: <https://kilho.net/worldview>
 - フォーラム: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 

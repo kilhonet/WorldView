@@ -216,7 +216,7 @@ Los cambios hechos en **Configuración**, y el zoom y el modo de vista elegidos 
 
 ## Actualizaciones
 
-WorldView **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y muestra un aviso; al hacer clic en **[Sí]** abre la página de descarga y cierra el programa. Las versiones nuevas se publican manualmente tras pruebas internas y se anuncian en la [página de WorldView](https://v2.kilho.net/worldview). Consulte el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
+WorldView **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y muestra un aviso; al hacer clic en **[Sí]** abre la página de descarga y cierra el programa. Las versiones nuevas se publican manualmente tras pruebas internas y se anuncian en la [página de WorldView](https://kilho.net/worldview). Consulte el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
 
 **Historial de versiones**
 
@@ -233,7 +233,7 @@ WorldView es **freeware**. Puede usarlo gratis y sin restricciones en cualquier 
 
 ## Enlaces
 
-- Sitio web: <https://v2.kilho.net/worldview>
+- Sitio web: <https://kilho.net/worldview>
 - Foro: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 

@@ -214,7 +214,7 @@ HEIC · AVIF · JPEG XL, Canon · Nikon · Sony · Olympus · Pentax · Panasoni
 
 ## 업데이트
 
-월드뷰는 자동으로 업데이트하지 **않습니다**. 실행할 때 새 버전이 있는지 확인해 안내 창을 띄우고, **[예]** 를 누르면 다운로드 페이지를 열고 프로그램을 닫습니다. 새 버전은 내부 검증 후 수동으로 배포되고 [월드뷰 페이지](https://v2.kilho.net/worldview)에 공지됩니다. [업데이트 정책 안내](https://kilho.net/archives/notice/2940)를 참고하세요.
+월드뷰는 자동으로 업데이트하지 **않습니다**. 실행할 때 새 버전이 있는지 확인해 안내 창을 띄우고, **[예]** 를 누르면 다운로드 페이지를 열고 프로그램을 닫습니다. 새 버전은 내부 검증 후 수동으로 배포되고 [월드뷰 페이지](https://kilho.net/worldview)에 공지됩니다. [업데이트 정책 안내](https://kilho.net/archives/notice/2940)를 참고하세요.
 
 **버전 이력**
 
@@ -231,7 +231,7 @@ HEIC · AVIF · JPEG XL, Canon · Nikon · Sony · Olympus · Pentax · Panasoni
 
 ## 링크
 
-- 웹사이트: <https://v2.kilho.net/worldview>
+- 웹사이트: <https://kilho.net/worldview>
 - 포럼: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 

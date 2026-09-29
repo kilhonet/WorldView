@@ -47,7 +47,7 @@ Neither version sets up file associations on its own. To open images in WorldVie
 
 ## Usage
 
-### Basic flow
+### Getting started
 
 1. Run WorldView and drop an image file, folder, archive or PDF onto the window. You can also pick a file with the folder button on the bottom bar or the `O` key.
 2. The image opens fitted to the window, and the other images in the same folder form a list in name order. The title at the top shows where you are, e.g. `Folder > File name [69/308]`.

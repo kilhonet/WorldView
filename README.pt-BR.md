@@ -49,7 +49,7 @@ Nenhuma das versões cria associações de arquivos sozinha. Para abrir imagens 
 
 ## Como usar
 
-### Fluxo básico
+### Primeiros passos
 
 1. Execute o WorldView e arraste para a janela um arquivo de imagem, uma pasta, um arquivo compactado ou um PDF. Você também pode escolher um arquivo com o botão de pasta da barra inferior ou com a tecla `O`.
 2. A imagem abre ajustada à janela, e as outras imagens da mesma pasta formam uma lista em ordem de nome. O título no topo mostra onde você está, por exemplo `Pasta > Nome do arquivo [69/308]`.

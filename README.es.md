@@ -47,7 +47,7 @@ Ninguna de las dos versiones crea asociaciones de archivos por sí sola. Para ab
 
 ## Uso
 
-### Flujo básico
+### Primeros pasos
 
 1. Ejecute WorldView y arrastre a la ventana un archivo de imagen, una carpeta, un archivo comprimido o un PDF. También puede elegir un archivo con el botón de carpeta de la barra inferior o con la tecla `O`.
 2. La imagen se abre ajustada a la ventana, y las demás imágenes de la misma carpeta forman una lista por orden de nombre. El título superior muestra dónde está, por ejemplo `Carpeta > Nombre de archivo [69/308]`.

@@ -47,7 +47,7 @@ Aucune des deux versions ne crée d'associations de fichiers d'elle-même. Pour 
 
 ## Utilisation
 
-### Déroulement de base
+### Premiers pas
 
 1. Lancez WorldView et déposez sur la fenêtre un fichier image, un dossier, une archive ou un PDF. Vous pouvez aussi choisir un fichier avec le bouton dossier de la barre inférieure ou la touche `O`.
 2. L'image s'ouvre ajustée à la fenêtre, et les autres images du même dossier forment une liste par ordre de nom. Le titre en haut indique où vous en êtes, par exemple `Dossier > Nom du fichier [69/308]`.

@@ -234,7 +234,7 @@ WorldView est un **gratuiciel**. Vous pouvez l'utiliser gratuitement et sans res
 ## Liens
 
 - Site web : <https://kilho.net/worldview>
-- Forum : <https://groups.google.com/g/kilhonet>
+- Forum : <https://kilho.top/forum/qna>
 - X (Twitter) : <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

@@ -232,7 +232,7 @@ HEIC · AVIF · JPEG XL, Canon · Nikon · Sony · Olympus · Pentax · Panasoni
 ## 링크
 
 - 웹사이트: <https://kilho.net/worldview>
-- 포럼: <https://groups.google.com/g/kilhonet>
+- 포럼: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

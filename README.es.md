@@ -218,15 +218,6 @@ Los cambios hechos en **Configuración**, y el zoom y el modo de vista elegidos 
 
 WorldView **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y muestra un aviso; al hacer clic en **[Sí]** abre la página de descarga y cierra el programa. Las versiones nuevas se publican manualmente tras pruebas internas y se anuncian en la [página de WorldView](https://kilho.net/worldview). Consulte el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
 
-**Historial de versiones**
-
-| Versión | Fecha | Cambios |
-|---|---|---|
-| 0.9.3 | 2026-09-24 | Configuración rehecha con un motor de interfaz propio, entrada de atajos y pantalla de configuración más ágiles, navegador añadido, información EXIF, zoom y modo de vista recordados, mejor vista a tamaño original, varias ventanas ya no se tapan entre sí, abrir PDF directamente con WorldView |
-| 0.9.2 | 2026-09-18 | Modo de vista y zoom guardados automáticamente, ajuste de una página/dos páginas/webtoon y portada en Configuración, menú Ver mejorado, Ver añadido al menú del clic derecho, asociaciones de PDF · TIFF ampliadas y formatos iguales agrupados |
-| 0.9.1 | 2026-09-14 | Compatibilidad con imágenes JFIF, ventanas de selección de archivo y de confirmación de borrado mejoradas |
-| 0.9.0 | 2026-09-12 | Primera versión |
-
 ## Licencia
 
 WorldView es **freeware**. Puede usarlo gratis y sin restricciones en cualquier lugar —en la empresa, en casa, en organismos públicos o en centros educativos— y redistribuirlo libremente.

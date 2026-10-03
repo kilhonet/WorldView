@@ -218,15 +218,6 @@ Changes made in **Preferences**, and the zoom and view mode picked from the View
 
 WorldView does **not** update itself. At startup it checks for a new version and shows a notice; clicking **[Yes]** opens the download page and closes the program. New versions are released manually after internal testing and announced on the [WorldView page](https://kilho.net/worldview). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
-**Version history**
-
-| Version | Date | Changes |
-|---|---|---|
-| 0.9.3 | 2026-09-24 | Preferences rebuilt on a custom UI engine, more responsive shortcut input and settings, navigator added, EXIF info, zoom and view mode remembered, improved original-size view, multiple windows no longer cover each other, open PDFs directly with WorldView |
-| 0.9.2 | 2026-09-18 | View mode and zoom saved automatically, one/two-page/webtoon view and cover settings in Preferences, faster View menu, View added to the right-click menu, wider PDF · TIFF file association support with matching formats grouped |
-| 0.9.1 | 2026-09-14 | JFIF image support, improved file and delete dialogs |
-| 0.9.0 | 2026-09-12 | First release |
-
 ## License
 
 WorldView is **freeware**. Use it for free without restriction anywhere — at work, at home, in government offices or at school — and redistribute it freely.
